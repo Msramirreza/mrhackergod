@@ -1,0 +1,27 @@
+from time import sleep
+
+
+print("###################################")
+print("|                                 |")
+print("|                                 |")
+print("|    h a c k     r u b i k a      |")
+print("|                                 |")
+print("|                                 |")
+print("|---------------------------------|")
+print("|                                 |")
+print("|   Manufacturer : mrhacker       |")
+print("|Channel rubika:                  |")
+print("|             @account_mr |")
+print("###################################")
+
+
+hack = input("TARGET  ID : ")
+
+l = ["hacking the rubika 18%...", "hacking the rubika 32%....", "hacking the rubika 58%.....", "hacking the rubika 76%......", "hacking the rubika 99%.......", " * hacking  faild- Done! Crack the code  rubika target :* "]
+
+for i in l:
+    print("\r" + i, end="")
+    sleep(1.5)
+print()
+
+print("code : 62983" or "94733" or "92172" or "85890" )
