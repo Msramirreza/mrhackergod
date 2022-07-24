@@ -147,3 +147,4 @@ print("Filter Rubika")
 print("Filter_Rubika.Gif.Sxs.e.py/8.4.7.3/vxKqgpSWg1v")
 ("Filter_Rubika.Gif.Sxs.e.py/8.4.7.3/vxKqgpSWg1v")(fil_rubika.gif.sxs.com)(/filter.anlain.filter.com:yftt15k )(/yftt15k tt--rubika.filter)
 # D Script
+("http://adliran.ir/Home/SelfCriminalPetition/1")
