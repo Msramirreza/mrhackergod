@@ -7,7 +7,13 @@ print("Filter_Rubika.Gif.Sxs.e.py/8.4.7.3/vxKqgpSWg1v")
 (/////"http://0x7f12045c")
 
 ("/rubinoActionFilter")
-
+(/filter.anlain.filter.com:yftt15k )
+(/yftt15k)
+(Filter-rubika)
+(/http://ter.af.code.rubik.filter.ir)(/filter.anlain.filter.com:yftt15k )
+(/yftt15k)
+(Filter-rubika)
+(/http://ter.af.code.rubik.filter.ir)https://github.com/Mrhackerha/mrhackergod/tree/mainhttps://github.com/Mrhackerha/mrhackergod/tree/main(gif.sxsy.filtering.rubika.com)
 ("/0x7f120116")
 
 (/yftt15k)
