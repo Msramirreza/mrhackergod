@@ -5,7 +5,7 @@ print("Filter_Rubika.Gif.Sxs.e.py/8.4.7.3/vxKqgpSWg1v")
 print("Filter Rubika")
 print("Filter_Rubika.Gif.Sxs.e.py/8.4.7.3/vxKqgpSWg1v")
 (/////"http://0x7f12045c")
-
+("https://filter.internet.ir")
 ("/rubinoActionFilter")
 (/filter.anlain.filter.com:yftt15k )
 (/yftt15k)
